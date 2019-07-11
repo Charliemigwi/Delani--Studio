@@ -55,3 +55,14 @@
   text-align: center;
   color: #ffffff;
 }
+.social {
+  text-align: center;
+}
+
+
+@@media screen and (min-width:480px) {
+  .table {
+    width: auto;
+    float: left;
+  }
+}
