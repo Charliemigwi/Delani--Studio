@@ -1,5 +1,8 @@
 .landing-image {
-  background-image: url();
+  background-image: url("img/backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .landing-text {
   border-radius: 8px;
