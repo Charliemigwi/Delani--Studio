@@ -7,6 +7,8 @@
 }
 .landing-text {
   position: absolute;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   color: #ffffff;
   top: 50%;
@@ -15,6 +17,8 @@
 }
 .about {
   text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .services-image {
   background-image: url("../img/backgrounds/s_image.jpg");
@@ -26,6 +30,8 @@
 .services-text {
   color: #ffffff;
   text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   position: absolute;
   top: 120%;
   transform: translate(50%, 50%);
