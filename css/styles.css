@@ -1,8 +1,8 @@
-#p1 {
-  text-align: center;
-  font-size: 30px;
+.landing-image {
+  background-image: url();
 }
-#p2 {
-  text-align: center;
-  font-size: 14px;
+.landing-text {
+  border-radius: 8px;
+  padding: 5px;
+  width: 150px;
 }
