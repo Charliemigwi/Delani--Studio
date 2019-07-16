@@ -38,29 +38,70 @@
   left: -25%;
 }
 .we-do {
-  background-image: url();
   text-align: center;
 }
+.services{
+  width: 150px;
+  margin: 100px;
+  border: none;
+  float: left;
+
+}
+.services img{
+  width: 50%;
+  height: auto;
+}
+p.services {
+  text-align: center;
+}
+
+}
+.services:hover {
+  border: 1px solid #777;
+}
+
 .portfolio {
   text-align: center;
+  align-items: center;
+  align-content: center;
 }
-.contact-bg {
+.gallery {
+  margin: 5px;
+  float: right;
+  width: 225px;
+  border: none;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+.desc {
+  padding: 1px;
+  text-align: center;
+}
+.gallery:hover {
+  border: 1px;
+}
+.contact-image {
   background-image: url("../img/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
-  height: 400px;
 }
-.contact-us {
+
+.contact-text {
   text-align: center;
-  color: #ffffff;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
 }
 .social {
   text-align: center;
 }
 
 
-@@media screen and (min-width:480px) {
+
+
+@media screen and (min-width:480px) {
   .table {
     width: auto;
     float: left;
