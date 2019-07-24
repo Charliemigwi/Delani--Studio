@@ -86,8 +86,17 @@ p.services {
   background-image: url("../img/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 400px;
 }
 
+.myForm-input {
+    font-size: 12px;
+    padding: 5px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    background: transparent;
+    color: white;
+}
 .contact-text {
   text-align: center;
   color: white;
