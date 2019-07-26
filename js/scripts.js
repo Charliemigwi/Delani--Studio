@@ -15,3 +15,6 @@ $(function(){
 });
 
 // For hover effect on PORTFOLIO
+$(function(){
+
+});
