@@ -133,6 +133,11 @@ div.contact-btn button:hover {
 .social {
   text-align: center;
 }
+desc1,
+desc2,
+desc3 {
+  display: none;
+}
 
 
 
